@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
 	<description>回到南二实的夏天</description>
-	<lastBuildDate>Thu, 23 Jun 2022 03:37:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jun 2022 02:15:25 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,6 +34,8 @@
 		<dc:creator><![CDATA[宁语涵]]></dc:creator>
 		<pubDate>Mon, 21 Sep 2015 02:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[A+++]]></category>
+		<category><![CDATA[校园生活]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=207</guid>
 
 					<description><![CDATA[]]></description>
@@ -51,6 +53,8 @@
 		<dc:creator><![CDATA[宁语涵]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 01:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[A+++]]></category>
+		<category><![CDATA[同学小组]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=201</guid>
 
 					<description><![CDATA[]]></description>
@@ -68,6 +72,9 @@
 		<dc:creator><![CDATA[宁语涵]]></dc:creator>
 		<pubDate>Tue, 01 Sep 2015 16:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[A+++]]></category>
+		<category><![CDATA[同学小组]]></category>
+		<category><![CDATA[自述]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=192</guid>
 
 					<description><![CDATA[]]></description>
@@ -85,6 +92,8 @@
 		<dc:creator><![CDATA[宁语涵]]></dc:creator>
 		<pubDate>Mon, 30 Mar 2015 03:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[A+++]]></category>
+		<category><![CDATA[团体活动]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=225</guid>
 
 					<description><![CDATA[]]></description>
@@ -102,6 +111,8 @@
 		<dc:creator><![CDATA[宁语涵]]></dc:creator>
 		<pubDate>Fri, 20 Mar 2015 03:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[A++++]]></category>
+		<category><![CDATA[自然观察]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=222</guid>
 
 					<description><![CDATA[]]></description>
@@ -119,6 +130,8 @@
 		<dc:creator><![CDATA[宁语涵]]></dc:creator>
 		<pubDate>Mon, 09 Mar 2015 03:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[A++]]></category>
+		<category><![CDATA[自然观察]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=213</guid>
 
 					<description><![CDATA[]]></description>

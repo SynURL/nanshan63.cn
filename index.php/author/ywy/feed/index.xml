@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
 	<description>回到南二实的夏天</description>
-	<lastBuildDate>Thu, 23 Jun 2022 00:36:26 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jun 2022 02:21:36 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,6 +34,9 @@
 		<dc:creator><![CDATA[余万烨]]></dc:creator>
 		<pubDate>Wed, 26 Nov 2014 17:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[A+++]]></category>
+		<category><![CDATA[团体活动]]></category>
+		<category><![CDATA[校园生活]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=64</guid>
 
 					<description><![CDATA[]]></description>

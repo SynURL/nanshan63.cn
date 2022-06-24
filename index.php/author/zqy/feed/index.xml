@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
 	<description>回到南二实的夏天</description>
-	<lastBuildDate>Thu, 23 Jun 2022 00:36:53 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jun 2022 02:27:11 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,6 +34,8 @@
 		<dc:creator><![CDATA[朱倩瑶]]></dc:creator>
 		<pubDate>Sun, 21 Sep 2014 17:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[A+++]]></category>
+		<category><![CDATA[自然观察]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=50</guid>
 
 					<description><![CDATA[]]></description>

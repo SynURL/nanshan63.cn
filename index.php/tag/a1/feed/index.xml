@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>A+ &#8211; 永远的六三</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>回到南二实的夏天</description>
+	<lastBuildDate>Fri, 24 Jun 2022 02:19:26 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2022/06/cropped-logo-32x32.png</url>
+	<title>A+ &#8211; 永远的六三</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>《我们组的一份子》</title>
+		<link>./../../../2015/03/31/wmzdyfz/index.html</link>
+		
+		<dc:creator><![CDATA[吕思成]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2015 03:00:00 +0000</pubDate>
+				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[A+]]></category>
+		<category><![CDATA[同学小组]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=228</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img width="724" height="1024" src="./../../../../wp-content/uploads/2022/06/IMG_0030-724x1024.jpg" alt="" class="wp-image-229" srcset="./../../../../wp-content/uploads/2022/06/IMG_0030-724x1024.jpg 724w, ./../../../../wp-content/uploads/2022/06/IMG_0030-212x300.jpg 212w, ./../../../../wp-content/uploads/2022/06/IMG_0030-768x1086.jpg 768w, ./../../../../wp-content/uploads/2022/06/IMG_0030-1086x1536.jpg 1086w, ./../../../../wp-content/uploads/2022/06/IMG_0030-1448x2048.jpg 1448w, ./../../../../wp-content/uploads/2022/06/IMG_0030-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>《周日的篮球社团》</title>
+		<link>./../../../2014/12/22/zrdlqst/index.html</link>
+		
+		<dc:creator><![CDATA[张思琦]]></dc:creator>
+		<pubDate>Sun, 21 Dec 2014 17:00:00 +0000</pubDate>
+				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[A+]]></category>
+		<category><![CDATA[团体活动]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=57</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="749" src="./../../../../wp-content/uploads/2022/06/IMG_0006-1024x749.jpg" alt="" class="wp-image-58" srcset="./../../../../wp-content/uploads/2022/06/IMG_0006-1024x749.jpg 1024w, ./../../../../wp-content/uploads/2022/06/IMG_0006-300x220.jpg 300w, ./../../../../wp-content/uploads/2022/06/IMG_0006-768x562.jpg 768w, ./../../../../wp-content/uploads/2022/06/IMG_0006-1536x1124.jpg 1536w, ./../../../../wp-content/uploads/2022/06/IMG_0006-2048x1499.jpg 2048w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
