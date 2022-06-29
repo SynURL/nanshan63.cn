@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>侯朝栋 &#8211; 永远的六三</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>记录那些年留下的文字</description>
+	<lastBuildDate>Sun, 26 Jun 2022 11:13:07 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2022/06/cropped-logo-32x32.png</url>
+	<title>侯朝栋 &#8211; 永远的六三</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>《博物学课》</title>
+		<link>./../../../2015/11/22/bwxk/index.html</link>
+		
+		<dc:creator><![CDATA[侯朝栋]]></dc:creator>
+		<pubDate>Sat, 21 Nov 2015 23:00:00 +0000</pubDate>
+				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[博物观察]]></category>
+		<category><![CDATA[同学小组]]></category>
+		<category><![CDATA[团体活动]]></category>
+		<category><![CDATA[校园生活]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=295</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img width="728" height="1024" src="./../../../../wp-content/uploads/2022/06/IMG_0056-728x1024.jpg" alt="" class="wp-image-296" srcset="./../../../../wp-content/uploads/2022/06/IMG_0056-728x1024.jpg 728w, ./../../../../wp-content/uploads/2022/06/IMG_0056-213x300.jpg 213w, ./../../../../wp-content/uploads/2022/06/IMG_0056-768x1081.jpg 768w, ./../../../../wp-content/uploads/2022/06/IMG_0056-1092x1536.jpg 1092w, ./../../../../wp-content/uploads/2022/06/IMG_0056-1456x2048.jpg 1456w, ./../../../../wp-content/uploads/2022/06/IMG_0056-scaled.jpg 1819w" sizes="(max-width: 728px) 100vw, 728px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

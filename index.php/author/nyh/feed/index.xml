@@ -11,7 +11,7 @@
 	<title>宁语涵 &#8211; 永远的六三</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
-	<description>回到南二实的夏天</description>
+	<description>记录那些年留下的文字</description>
 	<lastBuildDate>Fri, 24 Jun 2022 02:15:25 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
@@ -70,8 +70,8 @@
 		<dc:creator><![CDATA[宁语涵]]></dc:creator>
 		<pubDate>Tue, 01 Sep 2015 16:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[人生思考]]></category>
 		<category><![CDATA[同学小组]]></category>
-		<category><![CDATA[自述]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=192</guid>
 
 					<description><![CDATA[]]></description>
@@ -107,7 +107,7 @@
 		<dc:creator><![CDATA[宁语涵]]></dc:creator>
 		<pubDate>Fri, 20 Mar 2015 03:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
-		<category><![CDATA[自然观察]]></category>
+		<category><![CDATA[博物观察]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=222</guid>
 
 					<description><![CDATA[]]></description>
@@ -125,7 +125,7 @@
 		<dc:creator><![CDATA[宁语涵]]></dc:creator>
 		<pubDate>Mon, 09 Mar 2015 03:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
-		<category><![CDATA[自然观察]]></category>
+		<category><![CDATA[博物观察]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=213</guid>
 
 					<description><![CDATA[]]></description>

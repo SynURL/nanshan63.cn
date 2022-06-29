@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>蒋雨妍 &#8211; 永远的六三</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>记录那些年留下的文字</description>
+	<lastBuildDate>Sat, 25 Jun 2022 04:41:07 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2022/06/cropped-logo-32x32.png</url>
+	<title>蒋雨妍 &#8211; 永远的六三</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>《不变的与变化的》</title>
+		<link>./../../../2015/11/24/bbdybhd/index.html</link>
+		
+		<dc:creator><![CDATA[蒋雨妍]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2015 16:00:00 +0000</pubDate>
+				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[人生思考]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=254</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img width="716" height="1024" src="./../../../../wp-content/uploads/2022/06/IMG_0045-716x1024.jpg" alt="" class="wp-image-255" srcset="./../../../../wp-content/uploads/2022/06/IMG_0045-716x1024.jpg 716w, ./../../../../wp-content/uploads/2022/06/IMG_0045-210x300.jpg 210w, ./../../../../wp-content/uploads/2022/06/IMG_0045-768x1098.jpg 768w, ./../../../../wp-content/uploads/2022/06/IMG_0045-1074x1536.jpg 1074w, ./../../../../wp-content/uploads/2022/06/IMG_0045-1432x2048.jpg 1432w, ./../../../../wp-content/uploads/2022/06/IMG_0045-scaled.jpg 1790w" sizes="(max-width: 716px) 100vw, 716px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

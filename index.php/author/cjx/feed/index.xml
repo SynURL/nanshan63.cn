@@ -11,8 +11,8 @@
 	<title>陈佳璇 &#8211; 永远的六三</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
-	<description>回到南二实的夏天</description>
-	<lastBuildDate>Fri, 24 Jun 2022 02:11:50 +0000</lastBuildDate>
+	<description>记录那些年留下的文字</description>
+	<lastBuildDate>Wed, 29 Jun 2022 12:01:25 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -52,8 +52,8 @@
 		<dc:creator><![CDATA[陈佳璇]]></dc:creator>
 		<pubDate>Tue, 15 Sep 2015 01:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[人生思考]]></category>
 		<category><![CDATA[同学小组]]></category>
-		<category><![CDATA[自述]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=198</guid>
 
 					<description><![CDATA[]]></description>
@@ -71,6 +71,7 @@
 		<dc:creator><![CDATA[陈佳璇]]></dc:creator>
 		<pubDate>Mon, 07 Sep 2015 16:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[博物观察]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=195</guid>
 
 					<description><![CDATA[]]></description>
@@ -89,11 +90,31 @@
 		<pubDate>Mon, 31 Aug 2015 16:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
 		<category><![CDATA[同学小组]]></category>
+		<category><![CDATA[系列: 小组组合]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=188</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-large"><img loading="lazy" width="724" height="1024" src="./../../../../wp-content/uploads/2022/06/IMG_0007-724x1024.jpg" alt="" class="wp-image-189" srcset="./../../../../wp-content/uploads/2022/06/IMG_0007-724x1024.jpg 724w, ./../../../../wp-content/uploads/2022/06/IMG_0007-212x300.jpg 212w, ./../../../../wp-content/uploads/2022/06/IMG_0007-768x1086.jpg 768w, ./../../../../wp-content/uploads/2022/06/IMG_0007-1086x1536.jpg 1086w, ./../../../../wp-content/uploads/2022/06/IMG_0007-1448x2048.jpg 1448w, ./../../../../wp-content/uploads/2022/06/IMG_0007-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>《大自然的美4》</title>
+		<link>./../../../2015/04/08/dzrdm4/index.html</link>
+		
+		<dc:creator><![CDATA[陈佳璇]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2015 16:00:00 +0000</pubDate>
+				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[看世界]]></category>
+		<category><![CDATA[系列: 大自然的美]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=251</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="743" height="1024" src="./../../../../wp-content/uploads/2022/06/IMG_0043-743x1024.jpg" alt="" class="wp-image-252" srcset="./../../../../wp-content/uploads/2022/06/IMG_0043-743x1024.jpg 743w, ./../../../../wp-content/uploads/2022/06/IMG_0043-218x300.jpg 218w, ./../../../../wp-content/uploads/2022/06/IMG_0043-768x1059.jpg 768w, ./../../../../wp-content/uploads/2022/06/IMG_0043-1114x1536.jpg 1114w, ./../../../../wp-content/uploads/2022/06/IMG_0043-1486x2048.jpg 1486w, ./../../../../wp-content/uploads/2022/06/IMG_0043-scaled.jpg 1857w" sizes="(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px" /></figure>
 ]]></content:encoded>
 					
 		
@@ -106,8 +127,8 @@
 		<dc:creator><![CDATA[陈佳璇]]></dc:creator>
 		<pubDate>Tue, 31 Mar 2015 16:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[博物观察]]></category>
 		<category><![CDATA[系列: 大自然的美]]></category>
-		<category><![CDATA[自然观察]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=181</guid>
 
 					<description><![CDATA[]]></description>
@@ -125,8 +146,8 @@
 		<dc:creator><![CDATA[陈佳璇]]></dc:creator>
 		<pubDate>Tue, 24 Mar 2015 16:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[博物观察]]></category>
 		<category><![CDATA[系列: 大自然的美]]></category>
-		<category><![CDATA[自然观察]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=172</guid>
 
 					<description><![CDATA[]]></description>
@@ -144,8 +165,8 @@
 		<dc:creator><![CDATA[陈佳璇]]></dc:creator>
 		<pubDate>Sun, 15 Mar 2015 16:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[看世界]]></category>
 		<category><![CDATA[系列: 大自然的美]]></category>
-		<category><![CDATA[自然观察]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=169</guid>
 
 					<description><![CDATA[]]></description>
@@ -163,7 +184,7 @@
 		<dc:creator><![CDATA[陈佳璇]]></dc:creator>
 		<pubDate>Mon, 09 Mar 2015 16:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
-		<category><![CDATA[自然观察]]></category>
+		<category><![CDATA[看世界]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=163</guid>
 
 					<description><![CDATA[]]></description>

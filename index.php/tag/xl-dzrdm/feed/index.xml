@@ -11,8 +11,8 @@
 	<title>系列: 大自然的美 &#8211; 永远的六三</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../../index.html</link>
-	<description>回到南二实的夏天</description>
-	<lastBuildDate>Thu, 23 Jun 2022 22:52:31 +0000</lastBuildDate>
+	<description>记录那些年留下的文字</description>
+	<lastBuildDate>Wed, 29 Jun 2022 11:58:22 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,19 +28,38 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>《大自然的美4》</title>
+		<link>./../../../2015/04/08/dzrdm4/index.html</link>
+		
+		<dc:creator><![CDATA[陈佳璇]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2015 16:00:00 +0000</pubDate>
+				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[看世界]]></category>
+		<category><![CDATA[系列: 大自然的美]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=251</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img width="743" height="1024" src="./../../../../wp-content/uploads/2022/06/IMG_0043-743x1024.jpg" alt="" class="wp-image-252" srcset="./../../../../wp-content/uploads/2022/06/IMG_0043-743x1024.jpg 743w, ./../../../../wp-content/uploads/2022/06/IMG_0043-218x300.jpg 218w, ./../../../../wp-content/uploads/2022/06/IMG_0043-768x1059.jpg 768w, ./../../../../wp-content/uploads/2022/06/IMG_0043-1114x1536.jpg 1114w, ./../../../../wp-content/uploads/2022/06/IMG_0043-1486x2048.jpg 1486w, ./../../../../wp-content/uploads/2022/06/IMG_0043-scaled.jpg 1857w" sizes="(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>《大自然的美3》</title>
 		<link>./../../../2015/04/01/dzrdm3/index.html</link>
 		
 		<dc:creator><![CDATA[陈佳璇]]></dc:creator>
 		<pubDate>Tue, 31 Mar 2015 16:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[博物观察]]></category>
 		<category><![CDATA[系列: 大自然的美]]></category>
-		<category><![CDATA[自然观察]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=181</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img width="724" height="1024" src="./../../../../wp-content/uploads/2022/06/IMG_0041-724x1024.jpg" alt="" class="wp-image-182" srcset="./../../../../wp-content/uploads/2022/06/IMG_0041-724x1024.jpg 724w, ./../../../../wp-content/uploads/2022/06/IMG_0041-212x300.jpg 212w, ./../../../../wp-content/uploads/2022/06/IMG_0041-768x1086.jpg 768w, ./../../../../wp-content/uploads/2022/06/IMG_0041-1086x1536.jpg 1086w, ./../../../../wp-content/uploads/2022/06/IMG_0041-1448x2048.jpg 1448w, ./../../../../wp-content/uploads/2022/06/IMG_0041-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="724" height="1024" src="./../../../../wp-content/uploads/2022/06/IMG_0041-724x1024.jpg" alt="" class="wp-image-182" srcset="./../../../../wp-content/uploads/2022/06/IMG_0041-724x1024.jpg 724w, ./../../../../wp-content/uploads/2022/06/IMG_0041-212x300.jpg 212w, ./../../../../wp-content/uploads/2022/06/IMG_0041-768x1086.jpg 768w, ./../../../../wp-content/uploads/2022/06/IMG_0041-1086x1536.jpg 1086w, ./../../../../wp-content/uploads/2022/06/IMG_0041-1448x2048.jpg 1448w, ./../../../../wp-content/uploads/2022/06/IMG_0041-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
 ]]></content:encoded>
 					
 		
@@ -53,8 +72,8 @@
 		<dc:creator><![CDATA[陈佳璇]]></dc:creator>
 		<pubDate>Tue, 24 Mar 2015 16:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[博物观察]]></category>
 		<category><![CDATA[系列: 大自然的美]]></category>
-		<category><![CDATA[自然观察]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=172</guid>
 
 					<description><![CDATA[]]></description>
@@ -72,8 +91,8 @@
 		<dc:creator><![CDATA[陈佳璇]]></dc:creator>
 		<pubDate>Sun, 15 Mar 2015 16:00:00 +0000</pubDate>
 				<category><![CDATA[循环日记]]></category>
+		<category><![CDATA[看世界]]></category>
 		<category><![CDATA[系列: 大自然的美]]></category>
-		<category><![CDATA[自然观察]]></category>
 		<guid isPermaLink="false">./../../../../index.html?p=169</guid>
 
 					<description><![CDATA[]]></description>
